@@ -2,7 +2,7 @@
 
 #### Profissional da área de dados com 5 anos de experiência em empresas de médio/grande porte, abrangendo Análise, Ciência Dados e desenvolvimento de novos produtos/serviços. Possui conhecimentos em: criação de dashboards (Power BI e Qliksense), ETL, modelagem e tratamento de dados (SQL, Python), além de levantar hipóteses de solução dos problemas de negócios, através da análise das métricas quantitativas e qualitativas. Com esses domínios e sendo uma lifelong learner, consigo abstrair as demandas das áreas de tecnologia e de negócios, para o desenvolvimento de novos produtos e/ou serviços .
 
-## Skills
+## Habilidades
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
 ## Minhas redes sociais
